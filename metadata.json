@@ -1,0 +1,6 @@
+{
+  "name": "Nyeri AutoCare Centre",
+  "description": "Professional automotive service, computer diagnostics, servicing, and mechanical repairs in Nyeri, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
